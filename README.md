@@ -1,1 +1,1 @@
-# SIH CU Internal Hackathon 2025 Project
+# CodeGenius: DS Code AI Tool
